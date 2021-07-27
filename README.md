@@ -4,7 +4,7 @@ Meu nome é Leonardo, sou estudante de Computação e entusiasta em desenvolvime
 
 Tenho paixão em *_solucionar_* problemas com o conhecimento que adquiri ao longo do tempo.
 
-Aqui você pode ver tudo que estou estudando. Foi organizado com muito carinho 😄.
+Aqui você pode ver tudo que estou estudando.
 
 ### Tecnologias
 
