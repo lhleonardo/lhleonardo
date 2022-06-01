@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Meu nome é Leonardo, sou estudante de Computação e estagiário em desenvolvimento.
+Meu nome é Leonardo, sou formado em Computação e atualmente trabalho como consultor Back-end na WeFin.
 
 Tenho paixão em *_solucionar_* problemas com o conhecimento que adquiri ao longo do tempo.
 
