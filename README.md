@@ -2,6 +2,8 @@
 
 Hi! My name is Leonardo and I'm a back-end developer.
 
+Currently, I am a backend developer at WeFin - SP.
+
 I'm a Computer Science graduate from UFLA and pursuing a Master's at UNICAMP in Software Engineering focusing on software architecture.
 
 In back-end, I'm experienced Java Developer with expertise in the Java ecosystem, distributed systems, and microservices. My skills include Spring, SQL/NoSQL databases, messaging, authentication, version control, and CI/CD.
